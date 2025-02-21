@@ -1,0 +1,28 @@
+{
+    "views": [
+      {
+        "name": "View 1",
+        "ifcAttribute": "Attribute 1",
+        "modelTransparent": false,
+        "modelShaded": true,
+        "mode": "Numeric value",
+        "subMode": "Bitonal"
+      },
+      {
+        "name": "View 2",
+        "ifcAttribute": "Attribute 2",
+        "modelTransparent": true,
+        "modelShaded": false,
+        "mode": "Text value",
+        "subMode": "Map values"
+      },
+      {
+        "name": "View 3",
+        "ifcAttribute": "Attribute 3",
+        "modelTransparent": false,
+        "modelShaded": true,
+        "mode": "Numeric value",
+        "subMode": "Gradient"
+      }
+    ]
+  }
